@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "ಕರ್ಮ ನ ನಂಬಬೇಕಾ"
-date: 2024-03-22
+title: "ಕರ್ಮ"
+date: 2025-03-22
 author: Adarsha
 categories: Experience
 tags:	AcchaKannada Kannada Life Karnataka India story happy people reservation meesalaati
