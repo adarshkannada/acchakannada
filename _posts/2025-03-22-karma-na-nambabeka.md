@@ -5,7 +5,7 @@ date: 2025-03-22
 author: Adarsha
 categories: Discussion
 tags:	AcchaKannada Kannada Life Karnataka India story happy people reservation meesalaati
-description: 'ಕರ್ಮ' ಎಂಬ ವಿಚಾರವನ್ನು ನಮ್ಮ ಮಟ್ಟಿಗೆ serious ಆಗಿ ತಗೊಳ್ಳೋದು ಒಳ್ಳೆದಾ?
+description: ಕರ್ಮ ಎಂಬ ವಿಚಾರವನ್ನು ನಮ್ಮ ಮಟ್ಟಿಗೆ serious ಆಗಿ ತಗೊಳ್ಳೋದು ಒಳ್ಳೆದಾ?
 ---
 <p align = "justify"> ನಾ ಸಣ್ಣೋನಾಗಿದ್ದಗಿಂದಲೂ 'ನಮ್ಮ ಕರ್ಮ', 'ನಮ್ಮ ಹಣೆಬರಹ' ಅನ್ನೋದ ಕೇಳ್ತಾ ಬಂದಿದ್ದೀನಿ. ಇತ್ತೀಚಿಗೆ ಕರ್ಮ, ಹಣೆಬರಹ ಅಂದ್ರೆ ಏನು ಅಂತ ಸ್ವಲ್ಪ ತಿಳುವಳಿಕೆಗೆ ಬಂದಾಗಿಂದ ಇವುಗಳ ಬಗ್ಗೆ ಯೋಚನೆ ಮಾಡ್ತಾ ಒಂದಷ್ಟು ಕಾಲನೂ ಕಳೆದಾಗಿದೆ. ಈ ಸಾಲುಗಳೆಲ್ಲ ಆ ಯೋಚನೆಗಳಿಂದ ಬಂದಿರೋದು. </p>
 
