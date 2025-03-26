@@ -4,6 +4,7 @@ title: "ಕರ್ಮ"
 date: 2025-03-22
 author: Adarsha
 categories: Discussion
+cover: "assets/karma-acchakannada.jpg"
 tags:	AcchaKannada Kannada Life Karnataka India story happy people reservation meesalaati
 description: ಕರ್ಮ ಎಂಬ ವಿಚಾರವನ್ನು ನಮ್ಮ ಮಟ್ಟಿಗೆ serious ಆಗಿ ತಗೊಳ್ಳೋದು ಒಳ್ಳೆದಾ?
 ---
