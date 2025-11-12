@@ -4,7 +4,7 @@ layout: post
 title:  "ಮೂರು ಮುತ್ತುಗಳು"
 date:   2016-02-29
 author: Adarsha
-categories: Acchakannada
+categories: Shorts
 tags:	Kannada Acchakannada Poem kavana life manassu
 cover:  "assets/mooru-muttugalu.jpg"
 
