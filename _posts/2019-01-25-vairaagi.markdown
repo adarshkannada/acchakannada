@@ -4,7 +4,7 @@ layout: post
 title: "ವೈರಾಗಿ"
 date: 2019-01-25
 author: Adarsha
-categories: Sannavu
+categories: Shorts
 tags: AcchaKannada Kannada Life Karnataka India Blog travel adventure night vairaagi philosophy peace love nature philosopher
 cover: "assets/vairaagi-acchakannada.jpg"
 description: ನಮ್ಮ ಗುಂಪಿನ ಪ್ರಮುಖ ವೈರಾಗಿಯಾಗಿದ್ದ ಚೇತನನಿಗೆ ಯಾವಾಗಲೂ ಯಾವುದೋ ಭಾವನೆ ಆವರಿಸಿರುತ್ತದೆ.
