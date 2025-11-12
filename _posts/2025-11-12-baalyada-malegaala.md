@@ -3,7 +3,7 @@ layout: post
 title: "ಬಾಲ್ಯದ ಮಳೆಗಾಲ"
 date: 2025-11-12
 author: Navami
-categories: Experience
+categories: Shorts
 cover: "assets/baalyada-malegaala-acchakannada.jpg"
 tags:	AcchaKannada Kannada Life Karnataka India story happy people childhood baalya village agriculture rains malegaala
 description: ನನ್ನ ಬಾಲ್ಯದ ಮಳೆಗಾಲದ ನೆನಪು.
