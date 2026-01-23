@@ -4,7 +4,7 @@ title: "ಬಿಗುಮಾನ"
 date: 2026-01-23
 author: Adarsha
 categories: Discussion
-cover: "assets/karma-acchakannada.jpg"
+cover: "assets/bigumaana-acchakannada.jpg"
 tags:	AcchaKannada Kannada Life Karnataka India story happy people culture food Mumbai bengaluru pavBaji, vadapav
 description: ಬಿಗುಮಾನ ಬಿಟ್ರೆೆ ಹಿಡಿದ ಮನಸ್ಸಿಗೆ ಬಿಡುಗಡೆ.
 ---
