@@ -3,7 +3,7 @@ layout: post
 title: "ಬಿಗುಮಾನ"
 date: 2026-01-23
 author: Adarsha
-categories: Discussion
+categories: Experience
 cover: "assets/bigumaana-acchakannada.jpg"
 tags:	AcchaKannada Kannada Life Karnataka India story happy people culture food Mumbai bengaluru pavBaji, vadapav
 description: ಬಿಗುಮಾನದಿಂದ ಬೇಡ ಅನ್ನದಂಗೆ ಸವಿದು ನೋಡೋ ಮನಸ್ಸು ಮಾಡೋಕೆ ಹತ್ತು ವರ್ಶ ಬೇಕಾಯ್ತು ನಂಗೆ!!
