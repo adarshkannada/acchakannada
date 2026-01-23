@@ -6,7 +6,7 @@ author: Adarsha
 categories: Discussion
 cover: "assets/bigumaana-acchakannada.jpg"
 tags:	AcchaKannada Kannada Life Karnataka India story happy people culture food Mumbai bengaluru pavBaji, vadapav
-description: ಬಿಗುಮಾನ ಬಿಟ್ರೆೆ ಹಿಡಿದ ಮನಸ್ಸಿಗೆ ಬಿಡುಗಡೆ.
+description: ಬಿಗುಮಾನದಿಂದ ಬೇಡ ಅನ್ನದಂಗೆ ಸವಿದು ನೋಡೋ ಮನಸ್ಸು ಮಾಡೋಕೆ ಹತ್ತು ವರ್ಶ ಬೇಕಾಯ್ತು ನಂಗೆ!!
 ---
 
 <h2 align="center">೨೦೧೪</h2>
