@@ -6,7 +6,7 @@ author: Adarsha
 categories: Poem
 tags:	AcchaKannada Kannada Life Karnataka romance Poem love hope dream relax happy
 description: ನೆನ್ನೆಯೇ ನೋಡಿದ್ದೆ ಮುಗಿಲ ಮಿಂಚು, ಮತ್ತೆ ಕಾಣುವುದೇ ಆ ಬೆಳಕು.
-cover: "assets/kaala-kaledoytu-acchakannada.jpg"
+cover: "assets/assets/kaala-kaledoytu.jpg"
 
 ---
 
